@@ -1,0 +1,9 @@
+/* New ruleset */
+body {
+ background-color: #f0f0f0; /* Light gray background */
+}
+
+h1 {
+ color: #333; /* Dark gray text color */
+ font-size: 2.5em; /* Increase font size */
+}
